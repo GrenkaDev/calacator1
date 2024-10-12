@@ -87,6 +87,8 @@ class MainActivity : AppCompatActivity() {
                 addToInputText("%")
             }
         }
+
+    //djhfjsdhjfh
     // Функция для добавления текста к полю ввода
     private fun addToInputText(value: String) {
         binding.input.append(value)// Добавляем переданное значение в конец поля
